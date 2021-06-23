@@ -1,12 +1,12 @@
-package com.company;
+package com.company.model;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class FigurkaTest {
+class KostkaTest {
 
     @Test
-    void getBarva() {
-    };;
+    void hod() {
+    }
 }

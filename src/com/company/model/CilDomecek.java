@@ -1,4 +1,4 @@
-package com.company;
+package com.company.model;
 import java.util.*;
 public class CilDomecek {
 private Barva barva;
